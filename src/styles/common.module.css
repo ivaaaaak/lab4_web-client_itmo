@@ -1,0 +1,39 @@
+body {
+    background-color: #b7cee3 ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.container {
+    padding-left: 5px;
+}
+
+.button {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 1px black solid;
+    padding: 5px;
+    color: black;
+    font-size: 17px;
+    margin: 3px;
+    font-family: "Roboto Light", serif
+}
+
+.error {
+    padding: 15px;
+    background-color: #bda0ff;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px black dashed;
+    font-family: "Roboto Light", serif;
+}
+
+.loading {
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 5px;
+    text-align: center;
+}

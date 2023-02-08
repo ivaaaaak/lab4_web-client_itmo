@@ -1,0 +1,29 @@
+.header {
+    font-family: serif;
+    color: #082b3e;
+    font-size: 15px;
+    background: #7191ac;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    display: flex;
+}
+.header:hover {
+    background: linear-gradient(90deg,  #7191ac, #b7cee3);
+    opacity: 100%;
+}
+
+.headerText {
+    padding-left: 20px;
+    width: 53%;
+}
+
+h2 {
+    color: #093a4e;
+}
+
+.kitties {
+    padding-left: 7px;
+    padding-top: 3px;
+    margin-right: 10px;
+}

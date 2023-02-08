@@ -1,0 +1,21 @@
+.form {
+    background-color: #e3ceff;
+    padding: 20px;
+    border: 1px black solid;
+    border-radius: 15px;
+}
+
+.input, .select{
+    font-size: 20px;
+    padding: 5px 5px 5px 10px;
+    border-radius: 10px;
+    border: 1px black solid;
+    font-family: "Roboto Light", serif;
+    width: 180px;
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 10px;
+    font-family: "Roboto Light", serif
+}
